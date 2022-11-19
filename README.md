@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrabalGurung
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning programming and web design
-- 💞️ I’m looking to collaborate on coding
+- 👀 I’m interested in just about anything learning, playing, listening.
+- 🌱 I’m currently learning programming(java) and web design(HTML).
+- 💞️ I'm beginner so I hope to have suggestions on how to improve.
 - 📫 How to reach me, I dont have other social media. Will make soon.
 
 <!---
